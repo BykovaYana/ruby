@@ -1,0 +1,37 @@
+{"valid_user" :{
+  "Name": {
+    "given_name": "UI",
+    "family_name": "Test",
+    "unidentified_patient": "false"
+  },
+  "Gender": {
+    "gender": "Male"
+  },
+  "Birthdate": {
+    "day": "1",
+    "month": "August",
+    "year": "1900"
+  },
+  "Address": {
+    "address1": "Address",
+    "address2": "",
+    "city": "City",
+    "state": "State",
+    "country": "Country",
+    "postal_code": "12"
+  },
+  "Phone Number": {
+    "phone_number": "12345678"
+  },
+  "Relatives": {
+    "Parent" : "test parent"
+  }
+},
+  "user_without_name":{
+    "Name": {
+      "unidentified_patient": "true"
+    },
+    "Gender": {
+      "gender": "Male"
+    }
+  }}
